@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+input.focus {
+    outline: none;
+}
+
+h2 {
+    color: #0d6efd;
+    font-weight: 700;
+}
+
+.fiverr {
+    gap: 10px;
+}
+
+.fiverr .my-3 {
+    flex: 1;
+}
+
+.counter h1{
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.order-submit {
+    background-color: #1DBF73;
+    border: 1px solid #1DBF73;
+    font-weight: 600;
+}
+
+.order-submit:hover {
+    color: #1DBF73;
+    background-color: #fff;
+    border: 1px solid #1DBF73;
+}
